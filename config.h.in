@@ -1,0 +1,6 @@
+#ifndef CONFIG_H_IN
+#define CONFIG_H_IN
+
+#define CL_PATH "@CL_PATH@"
+
+#endif // CONFIG_H_IN

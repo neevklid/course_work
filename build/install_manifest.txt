@@ -1,0 +1,9 @@
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/test.exe
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/Qt5Cored.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/Qt5Guid.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/Qt5Sqld.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/Qt5Widgetsd.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/data.db
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/sqldrivers/qsqlited.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/platforms/qwindowsd.dll
+C:/Users/User/source/repos/CMakeProject1/build/installed/bin/platforms/qdirect2dd.dll
